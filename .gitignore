@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+!/node_modules/@types/midi-file
+!/node_modules/midi-file
 # testing
 /coverage
 
