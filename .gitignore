@@ -3,12 +3,9 @@
 # dependencies
 
 /node_modules/*
-/node_modules/@types/*
 /.pnp
 .pnp.js
 
-!node_modules/midi-file/*
-!node_modules/@types/midi-file/*
 
 # testing
 /coverage
